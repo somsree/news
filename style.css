@@ -1,0 +1,61 @@
+
+#header{
+    margin: bottom 10px;
+    padding-bottom: 10px;
+    background-color: #0000FF; 
+    
+}
+.card {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+   
+
+  }
+.p1 img{
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.font1{
+    font-family: 'Playfair Display', serif;
+    color: aliceblue;
+    font-size:30px;
+}
+.spacbar{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding-left: 5%;
+}
+.paragraph{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.size_font{
+  font-size: 15pt;
+}
+#footer{
+  background-color: #4c4a4a;
+  padding:10px;
+  color: aliceblue;
+}
+.clr {
+  clear: both;
+}
+.text-center{
+  display: block;
+  text-align: center
+}
+.p2{
+  height: 500px;
+  width: 500px;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  display: flex;
+}
